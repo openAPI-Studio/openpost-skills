@@ -1,0 +1,24 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "openpost-api-testing",
+  "version": "1.0.0",
+  "description": "Test, load-test and document HTTP APIs with the openpost CLI: git-friendly *.api.yaml tests with assertions, reports and CI instead of ad-hoc scripts.",
+  "author": {
+    "name": "API Studio",
+    "url": "https://github.com/openAPI-Studio/openpost-skills"
+  },
+  "keywords": [
+    "api test",
+    "api testing",
+    "rest api",
+    "localhost api",
+    "load test",
+    "performance test",
+    "openapi",
+    "api docs",
+    "assertions",
+    "http request"
+  ],
+  "homepage": "https://docs.vectored.dev/apistudio/docs/ai-agent-skills.html",
+  "repository": "https://github.com/openAPI-Studio/openpost-skills"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "openpost-skills",
+  "owner": {
+    "name": "API Studio"
+  },
+  "plugins": [
+    {
+      "name": "openpost",
+      "source": "./",
+      "description": "Test, load-test and document APIs with the openpost CLI: git-friendly *.api.yaml tests instead of ad-hoc scripts."
+    }
+  ],
+  "metadata": {
+    "description": "API testing, load testing and API docs skills for AI coding agents, powered by the openpost CLI."
+  }
+}
