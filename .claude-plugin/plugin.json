@@ -1,7 +1,7 @@
 {
   "name": "openpost",
   "description": "API testing, load testing and API docs with the openpost CLI (API Studio): git-friendly *.api.yaml tests instead of ad-hoc scripts.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": {
     "name": "API Studio"
   },
