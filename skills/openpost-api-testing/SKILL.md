@@ -25,6 +25,9 @@ it, and CI can enforce it.
    `--env-file` fill both `{{NAME}}` and `{{$env.NAME}}`. Reports and console
    output mask secret values (`••••••`); `--show-secrets` turns that off for
    local debugging only.
+   Don't read, print or copy secret values yourself (no `cat .env`, no echoing
+   tokens): ask the user to fill `api-tests/.env` from `.env.example` or export
+   the variable, and let the CLI read it.
 3. **Assert on behaviour, not noise.** Check status, key fields, types and
    schemas. Don't assert on timestamps, generated IDs or ordering unless that is
    the behaviour under test. Capture IDs and reuse them instead.

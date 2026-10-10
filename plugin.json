@@ -4,7 +4,7 @@
   "version": "1.1.0",
   "description": "Test, load-test and document HTTP APIs with the openpost CLI: git-friendly *.api.yaml tests with assertions, reports and CI instead of ad-hoc scripts.",
   "author": {
-    "name": "API Studio",
+    "name": "Open Post",
     "url": "https://github.com/openAPI-Studio/openpost-skills"
   },
   "keywords": [
