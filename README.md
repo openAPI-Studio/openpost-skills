@@ -30,3 +30,7 @@ https://docs.vectored.dev/apistudio/docs/ai-agent-skills.html
 
 This repository is published from the `openpost` CLI's source. Edit the skill
 there and copy the `skills/` folder here for each release.
+
+## License
+
+MIT. The skill files in this repository are MIT-licensed; the openpost CLI and API Studio app have their own license.
