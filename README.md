@@ -31,6 +31,21 @@ https://docs.vectored.dev/apistudio/docs/ai-agent-skills.html
 This repository is published from the `openpost` CLI's source. Edit the skill
 there and copy the `skills/` folder here for each release.
 
+## Privacy
+
+The skill and the openpost CLI collect no telemetry, analytics or personal
+data. Requests go only to the APIs you point them at, and reports are written
+to your own disk. Secrets come from your environment or a git-ignored `.env`
+file and are redacted from reports.
+
+Privacy Policy: https://docs.vectored.dev/privacy.html
+
+## Support
+
+- Email: support@vectored.dev
+- Support page: https://docs.vectored.dev/apistudio/support.html
+- Issues: https://github.com/openAPI-Studio/openpost-skills/issues
+
 ## License
 
 MIT. The skill files in this repository are MIT-licensed; the openpost CLI and API Studio app have their own license.
