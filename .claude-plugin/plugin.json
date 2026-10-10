@@ -14,5 +14,6 @@
     "load-testing",
     "openapi"
   ],
-  "repository": "https://github.com/openAPI-Studio/openpost-skills"
+  "repository": "https://github.com/openAPI-Studio/openpost-skills",
+  "license": "MIT"
 }
