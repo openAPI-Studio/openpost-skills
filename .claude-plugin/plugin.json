@@ -3,7 +3,8 @@
   "description": "API testing, load testing and API docs with the openpost CLI (API Studio): git-friendly *.api.yaml tests instead of ad-hoc scripts.",
   "version": "1.1.0",
   "author": {
-    "name": "Open Post"
+    "name": "Open Post",
+    "email": "support@vectored.dev"
   },
   "homepage": "https://docs.vectored.dev/apistudio/docs/ai-agent-skills.html",
   "keywords": [
